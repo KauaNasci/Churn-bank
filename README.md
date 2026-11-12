@@ -63,6 +63,6 @@ A análise de **Feature Importance** revelou que os fatores determinantes para o
 **Francisco Kauã do Nascimento Barros**
 *   Estudante de Tecnologia em Ciência de Dados (UNINTER).
 *   Técnico em Desenvolvimento de Sistemas.
-*   Especialista em Automação
+*   Foco em Analytics Engineering, SQL e Engenharia de Dados
   
 **Nota:** Este projeto faz parte do meu portfólio de estudos em Machine Learning e análise preditiva aplicados ao setor financeiro.
