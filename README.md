@@ -48,7 +48,7 @@ A análise de **Feature Importance** revelou que os fatores determinantes para o
 ## 📂 Como Utilizar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/KauaNasci/Churn-bank.git
    ```
 2. Instale as dependências:
    ```bash
